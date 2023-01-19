@@ -1,3 +1,3 @@
 # DataVisualizations
-https://github.com/GiavannaFranklin/DataVisualizations.git.    
+https://giavannafranklin.github.io/DataVisualizations/ 
 Testing this out.
